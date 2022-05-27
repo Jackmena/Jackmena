@@ -1,6 +1,6 @@
 <h2>Bem vindo</h2>
 
-<p align="justify">Meu nome é Jackson Mena do Couto. Estudo Análise e Desenvolvimento de Sistemas na Veiga de Almeida. Estou a procura de uma oportuinidade de trabalho ou estágio na área de programação como Frond-end, Back-end ou Full Stack, esse último sendo o que mais tenho interesse em me tornar, quero me desenvolver e aplicar meus conhecimentos trabalhando. Gosto de aprender e sempre busco conhecer um pouco de cada coisa, se pudesse até mecânica de carro queria saber rsrs, mas claro sem deixar de me especializar em algo que goste e domine bem. Por isso esse desejo de ser Full Stack, tenho conhecimento de HTML, CSS, JavaScript e Java. E estou aprendendo outras linguagens como Python e .Net</p> 
+<p align="justify">Meu nome é Jackson Mena do Couto. Me formei recentemente em Análise e Desenvolvimento de Sistemas na Veiga de Almeida. Estou a procura de uma oportuinidade de trabalho na área de programação como Frond-end ou Back-end, esse último sendo o que mais tenho interesse, quero me desenvolver e aplicar meus conhecimentos trabalhando. Gosto de aprender e sempre busco conhecer um pouco de cada coisa, se pudesse até mecânica de carro queria saber rsrs, mas claro sem deixar de me especializar em algo que goste e domine bem. Tenho conhecimento de HTML, CSS, JavaScript e Java.</p> 
 
 Sou bem calmo e organizado. No meu tempo livre gosto de assistir animes, séries e jogar video game. 
 
