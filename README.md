@@ -1,6 +1,6 @@
 <h2>Bem vindo</h2>
 
-<p align="justify">Meu nome é Jackson Mena do Couto. Me formei recentemente em Análise e Desenvolvimento de Sistemas na Veiga de Almeida. Estou a procura de uma oportuinidade de trabalho na área de programação como Frond-end ou Back-end, esse último sendo o que mais tenho interesse, quero me desenvolver e aplicar meus conhecimentos trabalhando. Gosto de aprender e sempre busco conhecer um pouco de cada coisa mas claro sem deixar de me especializar em algo que goste e domine bem. Tenho conhecimento de HTML, CSS, JavaScript e Java.</p> 
+<p align="justify">Meu nome é Jackson Mena do Couto. Me formei em Análise e Desenvolvimento de Sistemas na Veiga de Almeida. Estou a procura de uma oportuinidade de trabalho na área de programação como Frond-end ou Back-end, esse último sendo o que mais tenho interesse. Quero me desenvolver e aplicar meus conhecimentos trabalhando. Gosto de aprender e sempre busco conhecer um pouco de cada coisa, sem deixar de me especializar em algo que goste e domine bem. Tenho conhecimento de HTML, CSS, JavaScript e Java. Atualmente fazendo um curso de Nodejs.</p> 
 
 Sou bem calmo e organizado. No meu tempo livre gosto de assistir animes, séries e jogar video game. 
 
